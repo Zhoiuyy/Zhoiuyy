@@ -28,9 +28,9 @@ Here are some ideas to get you started:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories
+> 📜 5 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 5 Private Repositories  
 
 **I'm an Early 🐤** 
 
