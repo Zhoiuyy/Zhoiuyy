@@ -61,16 +61,17 @@ Sunday       59 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     4 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+java                     4 mins              █████████████████████████   100.0% 
+bagel-skeleton           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 mins              █████████████████████████   100.0%
 
 ```
 
